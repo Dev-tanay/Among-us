@@ -2,4 +2,4 @@
 
 Among Us using HTML , CSS
 
-## Link -> https://dev-tanay.github.io/Among-us/
+### Link -> https://dev-tanay.github.io/Among-us/
